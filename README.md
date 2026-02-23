@@ -7,9 +7,10 @@
 <div>
 
   ## About Me
-  #### I aim to become a backend Enginner from South Korea.
+  #### I aim to become a backend Engineer from South Korea.
 
   ## Tech Stacks
+  ### Backend
   <p>
     <img src="https://img.shields.io/badge/Java-b07219?style=flat-square*logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -18,34 +19,37 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   </p>
+  
+  ### Database & Infra
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logoColor=white"/>
+  </p>
+  
+  ### Collaboration
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=gionthub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   </p>
+
+  ## Certifications
+  
+  <a href="https://www.credly.com/badges/35e8d4b8-949b-4fb6-9654-24eef748631f/public_url">
+  <img src="" width="120"/>
+</a>
+
+  
+  
+  - 정보처리기사
+  - SQLD (SQL Developer)
+  - AWS Certified Solutions Architect – Associate
+
   
 
   ## Github Stats
-  [![Minbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minbro-Kim)](https://github.com/Minbro-Kim/github-readme-stats)
-
-  
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minbro-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-  
-  ![Minbro's GitHub stats](<https://github-readme-stats.vercel.app/api?username=Minbro-Kim>)
-  
-  
-  <br/>
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minbro-Kim)](https://github.com/Minbro-Kim/github-readme-stats)
+ 
   
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minbro-Kim)](https://github.com/anuraghazra/github-readme-stats)
