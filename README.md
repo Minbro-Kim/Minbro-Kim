@@ -1,13 +1,13 @@
 <div>
   
-  ![header](https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=M%20i%20n%20b%20r%20o&color=00051EFF&animation=blink&fontColor=2FD2E4FF&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=rect&height=130&section=header&text=M%20i%20n%20b%20r%20o&color=00051EFF&animation=blink&fontColor=2FD2E4FF&fontSize=60)
 
 </div>
 
 <div>
 
   ## About Me
-  #### I aim to become a backend Engineer from South Korea.
+  Backend developer based in South Korea. <br/>Interested in secure systems and scalable architecture.
 
   ## Tech Stacks
   ### Backend
@@ -36,18 +36,22 @@
   </p>
 
   ## Certifications
-  
-  <a href="https://www.credly.com/badges/35e8d4b8-949b-4fb6-9654-24eef748631f/public_url">
-  <img width="120" height="129" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/2579c695-14ad-4451-8303-51406667f424" />
-</a>
 
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <a href="https://www.credly.com/badges/35e8d4b8-949b-4fb6-9654-24eef748631f/public_url">
+          <img src="https://github.com/user-attachments/assets/2579c695-14ad-4451-8303-51406667f424" width="100"/>
+        </a>
+      </td>
+      <td>
+        ◦ AWS Certified Solutions Architect – Associate<br/>
+        ◦ 정보처리기사(Engineer Information Processing)<br/>
+        ◦ SQLD (SQL Developer)
+      </td>
+    </tr>
+  </table>
   
-  - 정보처리기사
-  - SQLD (SQL Developer)
-  - AWS Certified Solutions Architect – Associate
-
-  
-
   ## Github Stats
  
   
