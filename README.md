@@ -38,10 +38,9 @@
   ## Certifications
   
   <a href="https://www.credly.com/badges/35e8d4b8-949b-4fb6-9654-24eef748631f/public_url">
-  <img src="" width="120"/>
+  <img width="120" height="129" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/2579c695-14ad-4451-8303-51406667f424" />
 </a>
 
-  
   
   - 정보처리기사
   - SQLD (SQL Developer)
