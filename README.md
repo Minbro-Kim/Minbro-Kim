@@ -12,7 +12,7 @@
   ## Tech Stacks
   ### Backend
   <p>
-    <img src="https://img.shields.io/badge/Java-b07219?style=flat-square*logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
@@ -52,7 +52,12 @@
     </tr>
   </table>
   
-  ## Github Stats
- 
+## Github Stats
+
+<p align="left">
+  <img src="https://github-readme-stats-ten-sigma-28.vercel.app/api?username=Minbro-Kim&show_icons=true&theme=algolia&hide_border=true&count_private=true&custom_title=2026+Stats" height="165"/>
+
+  <img src="https://github-readme-stats-ten-sigma-28.vercel.app/api/top-langs/?username=Minbro-Kim&layout=compact&hide_border=true&theme=algolia&exclude_repo=Minbro-Kim.github.io" height="165"/>
+</p>
   
 </div>
